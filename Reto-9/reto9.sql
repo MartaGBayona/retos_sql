@@ -1,0 +1,2 @@
+-- RETO 9: Aplicación de Citas en Línea:
+-- Estás desarrollando una aplicación de citas en línea. Los usuarios pueden buscar otros usuarios, enviar mensajes, programar citas y dejar comentarios sobre sus experiencias. ¿Cuáles serían las entidades fundamentales?
